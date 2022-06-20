@@ -1,5 +1,5 @@
 # LayoutCastlevania
 
-Android Development / Java Tutorials - Lesson 6
+Android Development / Java Tutorial - Lesson 6
 
 Constraint Layout | Linear Layout | Landscape Variation | XML
